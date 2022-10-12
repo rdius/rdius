@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodrique KAFANDO
-- 👀 I’m interested in NLP, Time series forcasting, Spatial Data Mining,
+- 👀 I’m interested in NLP, Time series forcasting, Spatio-temporal Data Mining,
 - 💞️ I’m looking to collaborate on challenging projects related IA/NLP
 - 📫 How to reach me : kafando.rodrique@gmail.com
 
